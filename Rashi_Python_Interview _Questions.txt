@@ -16,70 +16,70 @@ Ans).  List is the one of data structures in python.List is used to stored an or
 Q.5) What is tuple?
 Ans). A tuple consist of numbers values separated by commas.Tuples are enclosed by parenthesis().
 
-Q.3) What is memory efficient way to add elements to a tuple?
+Q.6) What is memory efficient way to add elements to a tuple?
 Ans). Tuples are immutable datatypes in python.
 You cannot add elements to a existing table.
 A new one must be created if values are to be changed
 
-Q.4)  What are dictionary in Python?
+Q.7)  What are dictionary in Python?
 Ans) A python dictionary is a collection of items in particular order
 Dictionary is written in curly brackets with key value pair.
 
-Q.5) What is use of classifier?
+Q.8) What is use of classifier?
 Ans). A classifier is used to predict the class of any data point
 Classifier are  special  hypothesis that are used to assign class labels to any particular data points.
 it often uses training data to understand the realtion between input variables and the class.
 
-Q.6) What is recursion?
+Q.9) What is recursion?
 Ans). Recursion is a function calling itself one or more times in its body.
 One important thing to note is to terminate a recursion statement.
 There would be a problem of an infinite loop if recursion is not terminated.
 
-Q.7) Explain Python list comprehension
+Q.10) Explain Python list comprehension
 Ans). They are used for transforming one list into another list.
 Elements can be conditionally included in the new list and each element can be transformed as needed.
 
-Q.8). What is the use of bytes() function
+Q.11). What is the use of bytes() function
 Ans) The bytes () function return a simple bytes object.
 It is used to convert objects into bytesobject,or create empty bytes object of a specified size.
 
-Q.9) What is map() function in python?
+Q.12) What is map() function in python?
 Ans). The map() function in python is used for applying a function on all elements of a specified iterable.It consist of 2 parameters, function and iterable.
 
-Q.10)  What is __init__ method in python?
+Q.13)  What is __init__ method in python?
 Ans). It is reserved method in python.
 It is also known as constructor in the world of oops.
 When an object is created from a class, the __init __ method is called to access the class aatributes.
 
 
-Q.11)  What is pass in Python?
+Q.14)  What is pass in Python?
 Ans). Pass is a statement which does nothing when executed,because it is a null statement.
 These statement is ignored by the interpreter,but the statement results is no operation.
 It isused  when you do not want any command to execute but a statement is required.
 
-Q.12). How can an object be copied in python?
+Q.15). How can an object be copied in python?
 Ans) Not all objects can be copied in python,but most can.
 We can use the "=" operator to copy the object to a variable.
 for example: var = copy.copy(obj)
 
-Q.13). What are modules and packages in python
+Q.16). What are modules and packages in python
 Ans). Modules are the means to structure a program
 Each python program file is a module,importingother attributes and object.
 The folder of a program is a package of modules.Important to note that a package can have module and package.
 
-Q.14). What is difference between numpy and scipy
+Q.17). What is difference between numpy and scipy
 Ans). Numpy stands for numerical python whereas scipy stands for scientific python.
 Numpy is a basic library for defining arrays and simple mathematical prblems whereas Scipy is used for more complex problems like numerical integration and optimization and machine learning and so on.
 
-Q.15). What is encapsulation in python?
+Q.18). What is encapsulation in python?
 Ans). It means binding the code and data together.
 It is very important concept that is foundational to oops.Example a python class.
 
-Q.16) What is split() function used for?
+Q.19) What is split() function used for?
 Ans).The split function is used to split a string into shorter string using defined separators.
 Splitting out elements in various data structures helps with further data modularity.
 
-Q.17)  What is docstring in Python?
+Q.20)  What is docstring in Python?
 Ans). Python docstring are string literals enclosed in triple quotes that appear right after the definition of a function method,class or module.
 Generally used to describe the functionality of a particularfunction,method,class or module.
 We can access these docstrings using the __doc__ attribute.
