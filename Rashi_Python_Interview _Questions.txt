@@ -13,7 +13,7 @@ Python is dynamically typed means you dont need to state the type of  variables 
 Q.4) What is list in python?
 Ans).  List is the one of data structures in python.List is used to stored an ordered collection of items which can be of different types
 
-Q.4) What is tuple?
+Q.5) What is tuple?
 Ans). A tuple consist of numbers values separated by commas.Tuples are enclosed by parenthesis().
 
 Q.3) What is memory efficient way to add elements to a tuple?
